@@ -1,6 +1,6 @@
 name: Dario Vignali
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.42443
 title: Dario Vignali
 cta:
@@ -23,7 +23,7 @@ color:
     - '#585858'
     - '#828282'
   brandStrength: 0.0625
-  lightness: 0.75
-  saturation: 1
+  lightness: 0.5
+  saturation: 0.625
   rhythmicContrast: 0.4947516662068665
 purpose: []
