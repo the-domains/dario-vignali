@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is a demo article from The Grid
-datePublished: '2016-06-19T09:00:44.679Z'
-dateModified: '2016-06-19T08:59:35.692Z'
-authors: []
-publisher: null
+datePublished: '2016-06-19T09:02:53.833Z'
+dateModified: '2016-06-19T09:00:55.654Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-19-this-is-a-demo-article-from-the-grid.md
+authors: []
+publisher: null
+starred: false
 url: this-is-a-demo-article-from-the-grid/index.html
 _type: Article
 
